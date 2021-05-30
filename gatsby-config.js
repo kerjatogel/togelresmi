@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Agen Bandar Togel Resmi Online Terlengkap`,
+    description: `Daftar situs web agen togel terbaik bandar togel resmi online terlengkap dan terpercaya main disini kemenangan anda pasti dibayar 100% sepenuhnya!`,
     author: `@gatsbyjs`,
   },
   plugins: [
