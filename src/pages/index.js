@@ -1,7 +1,7 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-
+<link href="https://togel.frama.io/" rel="canonical">
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
