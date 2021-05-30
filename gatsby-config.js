@@ -34,13 +34,3 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-// In your gatsby-config.js
-plugins: [
-  `gatsby-plugin-react-helmet`,
-  {
-    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
-    options: {
-      siteUrl: `https://www.example.com`,
-    },
-  },
-]
