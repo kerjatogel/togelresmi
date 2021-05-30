@@ -7,6 +7,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
+    
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -33,12 +34,6 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-// In your gatsby-config.js
-plugins: [
-  {
-    resolve: `gatsby-plugin-canonical-urls`,
+resolve: `gatsby-plugin-canonical-urls`,
     options: {
-      siteUrl: `https://togelresmi.gatsbyjs.io/`,
-    },
-  },
-]
+      siteUrl: `https://www.example.com`,
