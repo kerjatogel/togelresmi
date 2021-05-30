@@ -36,10 +36,11 @@ module.exports = {
   ],
 // In your gatsby-config.js
 plugins: [
+  `gatsby-plugin-react-helmet`,
   {
-    resolve: `gatsby-plugin-canonical-urls`,
+    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
     options: {
       siteUrl: `https://www.example.com`,
     },
   },
-],
+]
