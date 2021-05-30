@@ -33,12 +33,12 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-  plugins: [
+// In your gatsby-config.js
+plugins: [
   {
     resolve: `gatsby-plugin-canonical-urls`,
     options: {
       siteUrl: `https://togelresmi.gatsbyjs.io/`,
     },
   },
-],
-}
+]
